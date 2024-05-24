@@ -1,4 +1,7 @@
-## Hi there 👋
+### Hi, i'm Gabriel!! 👋
+
+- Junior programmer, c and c++ developer.
+- I enjoy studying competitive programming to enhance my logical thinking and problem-solving skills.
 
 <!--
 **iProblem/iProblem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
